@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: "OWASP Top 10 CI/CD セキュリティリスク"
+title: OWASP Top 10 CI/CD セキュリティリスク
 tags: cicd security top10
-level: 2
+level: 3
 type: documentation
-pitch: CI/CD 環境における Top 10 セキュリティリスク
+pitch: OWASP Top 10 CI/CD セキュリティリスクプロジェクトは防御側が CI/CD エコシステムを保護するための重要分野を特定するのに役立ちます。
 
 ---
 ![alt_text](assets/images/risks.png)
