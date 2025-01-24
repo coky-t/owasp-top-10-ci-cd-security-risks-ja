@@ -8,7 +8,7 @@ This is the unofficial Japanese translation of the [OWASP Top 10 CI/CD Security 
 - Project Repository - <https://github.com/OWASP/www-project-top-10-ci-cd-security-risks>
 - Project Repository - <https://github.com/cider-security-research/top-10-cicd-security-risks>
 
-# OWASP Top 10 CI/CD セキュリティリスク 日本語版
+## OWASP Top 10 CI/CD セキュリティリスク 日本語版
 
 * [OWASP Top 10 CI/CD セキュリティリスク](Document/index.md)
 * [リーダー](Document/leaders.md)
